@@ -37,7 +37,7 @@ vagrant box list
 vagrant box remove [imagen]
 ```
 
-
-
-
+```
+apt install gnome-software
+```
 
